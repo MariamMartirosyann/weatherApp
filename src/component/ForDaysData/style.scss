@@ -1,0 +1,8 @@
+.data {
+  display: flex;
+  flex-direction: row;
+  .dataitem {
+    display: flex;
+    flex-direction: column;
+  }
+}

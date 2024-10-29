@@ -1,0 +1,16 @@
+.currentWeather{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    .city{
+     font-size: large;
+     margin-bottom: 5px;
+     
+    }
+    .temp{
+        font-size: large;
+        margin-bottom: 10px;
+    }
+}
